@@ -1,2 +1,0 @@
-# Projeto
-Verificação dessa merda
